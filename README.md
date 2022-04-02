@@ -1,16 +1,56 @@
-### Hi there 👋
+# Elliot Alderson
 
-<!--
-**ElliotAlderson51/ElliotAlderson51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+<div class="hello_friend">
 
-Here are some ideas to get you started:
+Hello friend. Hello friend? That’s lame. Maybe I should give you a name? But that’s a slippery slope. You’re only in my head. We have to remember that. (then) Shit. It’s actually happened. I’m talking to an imaginary person.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m about to tell you is top secret. A conspiracy bigger than all of us. There’s a powerful group of people out there that are secretly running the world. (then) I’m talking about the guys no one knows about. The guys that are invisible. The top one percent of the top one percent. The guys that play God without permission.
+
+And now I think they’re following me.
+
+</div>
+
+## About
+
+<div class="hello_friend">
+
+<p>But I’m only a vigilante hacker by night. By day, just a regular cyber security engineer, employee number ER28-0652.</p>
+
+</div>
+
+<div class="about">
+
+Hello friend! As you can see I really love the TV show MR. Robot. I open this site to show the world my personal projects, I hope someday I will have my own hackers group. Happy Hacking!
+
+<div class="hello_friend">
+
+https://elliotalderson51.github.io/Fsociety/
+
+</div>
+
+</div>
+
+<body>
+
+<style>
+
+p
+{
+font-family: 'Courier Prime', monospace;
+}
+
+.hello_friend
+{
+width: 50%;
+text-align: center;
+margin: 0 auto;
+}
+
+.about
+{
+width: 80%;
+margin: 0 auto;
+}
+
+</style>
