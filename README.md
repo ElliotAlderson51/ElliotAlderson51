@@ -33,27 +33,3 @@ https://elliotalderson51.github.io/Fsociety/
 
 <body>
 
-<style>
-
-p{
-
-font-family: 'Courier Prime', monospace;
-
-}
-
-.hello_friend{
-
-width: 50%;
-text-align: center;
-margin: 0 auto;
-
-}
-
-.about{
-
-width: 80%;
-margin: 0 auto;
-
-}
-
-</style>
